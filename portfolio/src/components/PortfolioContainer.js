@@ -5,6 +5,8 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import Portfolio from './pages/Portfolio'
 import Resume from './pages/Resume'
+import Footer from './Footer'
+
 function PortfolioContainer() {
     //TODO: Display Header (with navbar), about Me section as default, and the footer
     // So should return 4 different components here
@@ -28,7 +30,7 @@ function PortfolioContainer() {
         <div>
             <Header currentPage={currPage} handlePageChange={handlePageChange} />
             {renderPage()}
-            {/* footer Componenet here */}
+            <Footer />
         </div>
     );
 }

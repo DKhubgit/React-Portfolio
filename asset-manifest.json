@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.9bd7a35e.css",
+    "main.js": "/React-Portfolio/static/js/main.251735d4.js",
+    "static/media/Project1-screenshot.PNG": "/React-Portfolio/static/media/Project1-screenshot.d9661d3a48bd5ecd8a42.PNG",
+    "static/media/Fat-Birds-screenshot.PNG": "/React-Portfolio/static/media/Fat-Birds-screenshot.491a766ae3fa0b7362bf.PNG",
+    "static/media/SocialNetwork-API-Screenshot.PNG": "/React-Portfolio/static/media/SocialNetwork-API-Screenshot.cce933777be84148f34c.PNG",
+    "static/media/ORM-screenshot1.PNG": "/React-Portfolio/static/media/ORM-screenshot1.bcb86279dbf246115f2c.PNG",
+    "static/media/JATE-screenshot.PNG": "/React-Portfolio/static/media/JATE-screenshot.42083bacbd1f6c8c004e.PNG",
+    "static/media/note-taker-ss1.PNG": "/React-Portfolio/static/media/note-taker-ss1.99c0c02f1a8909e78b8d.PNG",
+    "index.html": "/React-Portfolio/index.html",
+    "main.9bd7a35e.css.map": "/React-Portfolio/static/css/main.9bd7a35e.css.map",
+    "main.251735d4.js.map": "/React-Portfolio/static/js/main.251735d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.251735d4.js"
+  ]
+}

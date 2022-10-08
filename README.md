@@ -6,9 +6,11 @@ A portfolio designed with the popular front-end framework REACT, displays a sing
 
 ## Screenshot
 
+![React-portfolio-screenshot](https://user-images.githubusercontent.com/103972201/194731576-d32d892b-cfa6-4b8c-b620-9d600b4455d5.PNG)
 
 ## Link to Portfolio
 
+[https://dkhubgit.github.io/React-Portfolio/](https://dkhubgit.github.io/React-Portfolio/)
 
 ## Author
 
